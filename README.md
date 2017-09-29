@@ -3,6 +3,13 @@ This Project is a simple webStore (SALES APP), for selling products. It will lis
 
 Project contains Angular Seed boiler plate, angular-route, controllers & views, $http service to fetch simple json files.
 
+## Contributions
+* `angular-seed`
+* `angularjs`
+* bootstap 3
+* jquery
+* `paypal` simple form purchase via sandbox
+
 ## Experience in full SDLC
 * AngularJS (1.0, 2.0) Apps
 * PHP webstites
