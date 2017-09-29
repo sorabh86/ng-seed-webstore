@@ -1,5 +1,5 @@
 # Overview  ([`angular-seed`](https://github.com/angular/angular-seed.git)) 
-This Project is a simple webstore (SALES APP), for selling products. It will list templates with details including price and category. We using a simple paypal buy button nothing too fancy. Main goal is to obtain experience on angularjs application & website development.
+This Project is a simple webStore (SALES APP), for selling products. It will list templates with details including price and category. We using a simple paypal buy button nothing too fancy. Main goal is to obtain experience on angularjs application & website development.
 
 Project contains Angular Seed boiler plate, angular-route, controllers & views, $http service to fetch simple json files.
 
